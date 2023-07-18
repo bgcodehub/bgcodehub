@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Galeano
 =====================================================================================================================================
 
-Software Engineer | Full Stack Web Developer
+DevOps Engineer | Cloud Engineer | Lifelong Learner
 --------------------------------------------
 
-I'm a software engineer with expertise in Python, JavaScript, HTML, and CSS, committed to continuous learning and professional growth. My passion for problem-solving drives me to develop innovative solutions, collaborate effectively, and stay current with industry trends. Open to new opportunities and connections, lets build exceptional products together while fostering an environment of mutual growth. Reach out to discuss potential collaboration or simply expand our networks.
+I'm a DevOps and Cloud Engineer, enthusiastic about harnessing the power of various cloud technologies. From AWS to Azure and Google Cloud, my passion is exploring and utilizing these technologies to optimize and innovate. I dove into the world of tech as a software engineer, learning how to solve intricate problems and dive deep into the intricacies of system analysis. Today, I've combined that experience with my interest in AWS cloud technologies and DevOps.
 
 * 🌍  I'm based in Atlanta, Georgia
 * 🖥️  See my portfolio at [MyPortfolio](http://briangaleano.com)
