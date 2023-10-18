@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps Engineer | Cloud Engineer | Lifelong Learner
 --------------------------------------------
 
-I'm a DevOps and Cloud Engineer, enthusiastic about harnessing the power of various cloud technologies. From AWS to Azure and Google Cloud, my passion is exploring and utilizing these technologies to optimize and innovate. I dove into the world of tech as a software engineer, learning how to solve intricate problems and dive deep into the intricacies of system analysis. Today, I've combined that experience with my interest in cloud technologies and DevOps.
+I'm a DevOps and Cloud Engineer, enthusiastic about harnessing the power of various cloud technologies. From AWS to Azure and Google Cloud, my passion is exploring and utilizing these technologies to optimize and innovate. I dove into the world of tech as a software engineer, learning how to solve intricate problems and dive deep into the intricacies of system analysis. Today, I've combined that experience with my interest in DevOps and cloud technologies.
 
 * 🌍  I'm based in Atlanta, Georgia
 * 🖥️  See my portfolio at [MyPortfolio](http://briangaleano.com)
 * 🚀  I'm currently working on [Vidiverse](http://vidiverse.briangaleano.com/)
-* 🧠  I'm learning everything DevOps
+* 🧠  Always learning everything DevOps
 
 <a href="https://www.github.com/bgcodehub" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bgcodehub?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
