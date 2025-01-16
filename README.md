@@ -8,7 +8,6 @@ I'm a DevOps and Cloud Engineer, enthusiastic about harnessing the power of vari
 
 * 🌍  I'm based in Atlanta, Georgia
 * 🖥️  See my portfolio at [MyPortfolio](http://briangaleano.com)
-* 🚀  I'm currently working on [Vidiverse](http://vidiverse.briangaleano.com/)
 * 🧠  Always learning everything DevOps
 
 <a href="https://www.github.com/bgcodehub" target="_blank" rel="noreferrer"><img
