@@ -39,7 +39,7 @@ Here’s a glimpse of the tools and technologies I work with:
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="metrics.svg" alt="GitHub Metrics" width="600"/>
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="600"/>
 </p>
 
 ---
