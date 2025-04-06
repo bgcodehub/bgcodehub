@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4FF¢er=true&vCenter=true&width=600&lines=Hey+there!+I'm+Brian+Galeano;DevOps+%26+Cloud+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4FF¢er=true&vCenter=true&width=600&lines=Hey+there!+I'm+Brian+Galeano;DevOps+%26+Cloud+Platform+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a **DevOps and Cloud Engineer** with a passion for leveraging cutting-edge cloud technologies to build scalable, efficient systems. From **AWS** to **Azure** and **Google Cloud**, I thrive on optimizing workflows and innovating through automation. My journey started as a software engineer, where I honed my skills in problem-solving and system analysis. Now, I combine that foundation with my love for DevOps and cloud to create impactful solutions.
+I'm a **DevOps and Cloud Platform Engineer** with a passion for leveraging cutting-edge cloud technologies to build scalable, efficient systems. From **AWS** to **Azure** and **Google Cloud**, I thrive on optimizing workflows and innovating through automation. My journey started as a software engineer, where I honed my skills in problem-solving and system analysis. Now, I combine that foundation with my love for DevOps and cloud to create impactful solutions.
 
 - 🌍 Based in **Atlanta, Georgia**  
 - 🧠 Lifelong learner, always diving deeper into **DevOps** and **Cloud**  
