@@ -18,10 +18,10 @@
 
 ## 🚀 About Me
 
-I'm a **DevOps and Cloud Platform Engineer** with a passion for leveraging cutting-edge cloud technologies to build scalable, efficient systems. From **AWS** to **Azure** and **Google Cloud**, I thrive on optimizing workflows and innovating through automation. My journey started as a software engineer, where I honed my skills in problem-solving and system analysis. Now, I combine that foundation with my love for DevOps and cloud to create impactful solutions.
+Just codin'
 
 - 🌍 Based in **Atlanta, Georgia**  
-- 🧠 Lifelong learner, always diving deeper into **DevOps** and **Cloud**  
+- 🧠 **DevOps**, **Cloud**, **Platform**
 - 💻 Check out my portfolio at [briangaleano.com](http://briangaleano.com)
 
 ---
